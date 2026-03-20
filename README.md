@@ -6,7 +6,7 @@ I am building this repository with a product-engineering mindset, not just inter
 
 ---
 
-## 🎯 Why This Repository Exists
+
 
 Modern product startups require engineers who can:
 
@@ -29,32 +29,11 @@ This repository reflects that preparation.
 
 ---
 
-## 📂 Repository Structure
-
-```
-java-dsa-backend/
-│
-├── fundamentals/
-├── arrays-optimizations/
-├── string-processing/
-├── recursion-backtracking/
-├── data-structures/
-│   ├── stack/
-│   ├── queue/
-│   ├── linked-list/
-│   ├── hashmap/
-│   └── tree/
-├── algorithmic-patterns/
-│   ├── sliding-window/
-│   ├── two-pointers/
-│   ├── binary-search/
-│   └── prefix-sum/
-└── performance-analysis/
+##
 ```
 
 ---
 
-## 📌 What Makes This Different
 
 For each problem:
 
@@ -118,24 +97,7 @@ Each solution follows:
 
 ---
 
-## 📈 Future Additions
-
-* API-based problem simulations
-* Mini backend logic projects
-* Unit testing integration
-* Performance benchmarking
-* System design basics
 
 ---
 
-## 👨‍💻 Target Roles
 
-* Java Backend Developer
-* Software Engineer – Product Companies
-* Backend Engineer – Startups
-
----
-
-If you're building scalable backend systems or preparing for product engineering roles, feel free to explore or connect.
-
-⭐ Star the repository if you find it valuable.
