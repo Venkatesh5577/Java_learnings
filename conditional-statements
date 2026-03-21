@@ -1,0 +1,74 @@
+import java.util.Scanner;
+
+public class dsa {
+
+    public static void main(String[] args) {
+        int n = 8;
+        int result = 0;
+        result = n%2==0? 7:99; // ternary opretor, no need of long if-else.
+        System.out.println(result);
+
+
+        // switch st
+        Scanner input = new Scanner(System.in);
+        System.out.println("enter the number : ");
+        int num = input.nextInt();
+
+        switch(num){
+            case 1 :
+                System.out.println("Monday");
+                break;
+            case 2 :
+                System.out.println("Tuesday");
+                break;
+            case 3 :
+                System.out.println("Wednesday");
+                break;
+            case 4 :
+                System.out.println("Thursday");
+                break;
+            case 5 :
+                System.out.println("Friday");
+                break;
+            case 6 :
+                System.out.println("Saturday");
+                break;
+            case 7 :
+                System.out.println("Sunday");
+                break;
+            case 8 :
+                System.out.println("Holiday");
+                break;
+            case 9 :
+                System.out.println("party");
+                break;
+
+
+
+                // while loop
+      While(num<= 5)
+       {
+            System.out.println("hi , bro " + num);
+           num++;
+        }
+        System.out.println("bye , bye");
+
+
+       // fr loop
+       for(int i = 1; i<=5; i++)
+       {
+           System.out.println("DAY " + i);
+           for(int j = 1; j<=9;j++)
+           {
+               System.out.println("  " + (j + 8) + " - " + (j+9) );           
+           }
+        }
+
+
+
+        
+
+        }
+
+    }}
+
